@@ -11,3 +11,5 @@ Case study from *DataCamp*; The task is to solve customer churn for a Telecom pr
 This project aims to understand the reasons behind customer churn and identify strategies to reduce it. Analyzing churn involves not just calculating the churn rate but also determining the underlying causes and potential solutions. We will create calculated columns and fields, build PivotTables, and develop an eye-catching dashboard to present our findings.
 # Video games Sales
 Understanding the video game market is crucial for stakeholders to make informed decisions. This project utilizes a dataset of video game sales to create a Power BI dashboard that provides insights into various aspects of the industry. The analysis will cover sales trends, platform revenues, genre diversity, and publisher performance.
+# LOL Game analysis
+Understanding the factors that contribute to a team's success in competitive games like League of Legends is crucial for players, coaches, and analysts. This project leverages a comprehensive dataset from Kaggle to perform an in-depth analysis of team performance and identify key success factors.
