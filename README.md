@@ -1,4 +1,30 @@
 # Project Overview
+
+# Maven Rewards Challenge
+Overview
+
+As a Sr. Marketing Analyst at Maven Cafe, I undertook the Maven Rewards Challenge to evaluate the effectiveness of various promotional offers sent to rewards members over a 30-day period. The objective was to analyze customer interactions with these offers and develop a targeted strategy for future promotional efforts.
+Project Components
+
+    Data Files:
+        Offers: Details of each promotional offer.
+        Demographics: Information on customer profiles.
+        Activity: Records of customer interactions, including offer received, viewed, accepted, and transactions.
+
+    Analysis:
+        I analyzed the data to identify key customer segments and their responses to different offers.
+        The analysis included correlating offer interactions with transaction data to determine the success of each promotional strategy.
+
+Deliverables
+
+    Report: A comprehensive summary of the findings, including key customer segments and recommendations for future promotional messaging and targeting. This report will be presented to the CMO.
+
+Objective
+
+The primary goal is to optimize future marketing strategies by leveraging data-driven insights from the test results. The aim is to enhance customer engagement and drive better results from promotional campaigns.
+Recognition
+
+This project is part of the Maven Rewards Challenge, with awards for the best overall entry, first-time entrants, and a fan favorite.
 # AB Test 
 This project involves performing A/B testing on a dataset obtained from Kaggle. The primary goal is to determine whether a new intervention (Test group) leads to a statistically significant difference in the conversion rates and other variables compared to the existing setup (Control group).
 The main objectives of this project are:
