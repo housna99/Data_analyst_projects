@@ -8,8 +8,8 @@ Project Components
 
     Data Files:
         Offers: Details of each promotional offer.
-        Demographics: Information on customer profiles.
-        Activity: Records of customer interactions, including offer received, viewed, accepted, and transactions.
+        Customers: Information on customer profiles.
+        Event: Records of customer interactions, including offer received, viewed, accepted, and transactions.
 
     Analysis:
         I analyzed the data to identify key customer segments and their responses to different offers.
@@ -32,6 +32,8 @@ The main objectives of this project are:
     1. To explore and understand the data through Exploratory Data Analysis (EDA).
     2. To test the hypothesis that the new intervention significantly affects the conversion rate and other variables(purchasen impressions...).
     3. To draw conclusions based on statistical analysis and make recommendations. 
+
+Check my presentation : https://docs.google.com/presentation/d/11Zz8NwOlCmmbl7-nvbWYZXUWTASGfWRzolhSADRClEA/edit?usp=sharing
 # CoinMarketCap API Data Extraction and Visualization Project
 In this project, I aim to automate the extraction of cryptocurrency data from the CoinMarketCap API. Following the data extraction, I will clean the dataset and create visualizations to better understand the data.
 - API :
